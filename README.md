@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Ryan! I'm a Freshman Computer Science Major who's worked a lot in Java and has done some game development, and would love to expand and work on a wide varity of things!
 
+_Note: If you would like to see any private contracted work, please reach out to me through Discord or any other method of communication_
+
 # 📨Contact Me 
 ![Discord](https://discord-readme-badge.vercel.app/api?id=151474463550996480)
 
