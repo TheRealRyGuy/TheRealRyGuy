@@ -5,9 +5,9 @@ i'm just a dude who likes open source things but will typically break them
 ## ⚡ recent adventures
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/PurpurMC/Tentacles/pull/10) in [PurpurMC/Tentacles](https://github.com/PurpurMC/Tentacles)
-2. 🗣 Commented on [#10](https://github.com/aternosorg/mclogs-bukkit/issues/10) in [aternosorg/mclogs-bukkit](https://github.com/aternosorg/mclogs-bukkit)
-3. 🔒 Closed issue [#58](https://github.com/PurpurMC/PurpurExtras/issues/58) in [PurpurMC/PurpurExtras](https://github.com/PurpurMC/PurpurExtras)
-4. 🗣 Commented on [#58](https://github.com/PurpurMC/PurpurExtras/issues/58) in [PurpurMC/PurpurExtras](https://github.com/PurpurMC/PurpurExtras)
-5. ❗ Opened issue [#58](https://github.com/PurpurMC/PurpurExtras/issues/58) in [PurpurMC/PurpurExtras](https://github.com/PurpurMC/PurpurExtras)
+1. 💪 Opened PR [#61](https://github.com/PurpurMC/PurpurExtras/pull/61) in [PurpurMC/PurpurExtras](https://github.com/PurpurMC/PurpurExtras)
+2. 💪 Opened PR [#10](https://github.com/PurpurMC/Tentacles/pull/10) in [PurpurMC/Tentacles](https://github.com/PurpurMC/Tentacles)
+3. 🗣 Commented on [#10](https://github.com/aternosorg/mclogs-bukkit/issues/10) in [aternosorg/mclogs-bukkit](https://github.com/aternosorg/mclogs-bukkit)
+4. 🔒 Closed issue [#58](https://github.com/PurpurMC/PurpurExtras/issues/58) in [PurpurMC/PurpurExtras](https://github.com/PurpurMC/PurpurExtras)
+5. 🗣 Commented on [#58](https://github.com/PurpurMC/PurpurExtras/issues/58) in [PurpurMC/PurpurExtras](https://github.com/PurpurMC/PurpurExtras)
 <!--END_SECTION:activity-->
