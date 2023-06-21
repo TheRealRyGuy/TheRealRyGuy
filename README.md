@@ -5,9 +5,9 @@ i'm just a dude who likes open source things but will typically break them
 ## ⚡ recent adventures
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#794](https://github.com/MockBukkit/MockBukkit/issues/794) in [MockBukkit/MockBukkit](https://github.com/MockBukkit/MockBukkit)
-2. 🗣 Commented on [#794](https://github.com/MockBukkit/MockBukkit/issues/794) in [MockBukkit/MockBukkit](https://github.com/MockBukkit/MockBukkit)
+1. 🗣 Commented on [#61](https://github.com/PurpurMC/PurpurExtras/issues/61) in [PurpurMC/PurpurExtras](https://github.com/PurpurMC/PurpurExtras)
+2. 🗣 Commented on [#61](https://github.com/PurpurMC/PurpurExtras/issues/61) in [PurpurMC/PurpurExtras](https://github.com/PurpurMC/PurpurExtras)
 3. 🗣 Commented on [#794](https://github.com/MockBukkit/MockBukkit/issues/794) in [MockBukkit/MockBukkit](https://github.com/MockBukkit/MockBukkit)
-4. 🗣 Commented on [#61](https://github.com/PurpurMC/PurpurExtras/issues/61) in [PurpurMC/PurpurExtras](https://github.com/PurpurMC/PurpurExtras)
-5. 💪 Opened PR [#794](https://github.com/MockBukkit/MockBukkit/pull/794) in [MockBukkit/MockBukkit](https://github.com/MockBukkit/MockBukkit)
+4. 🗣 Commented on [#794](https://github.com/MockBukkit/MockBukkit/issues/794) in [MockBukkit/MockBukkit](https://github.com/MockBukkit/MockBukkit)
+5. 🗣 Commented on [#794](https://github.com/MockBukkit/MockBukkit/issues/794) in [MockBukkit/MockBukkit](https://github.com/MockBukkit/MockBukkit)
 <!--END_SECTION:activity-->
